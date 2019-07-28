@@ -1,0 +1,14 @@
+{
+    "name": "granite",
+    "provides": {
+        "Granite::Area": "lib/Granite/Area.pm6",
+        "Granite::Area::Cave::Entrance": "lib/Granite/Area/Cave/Entrance.pm6",
+        "Granite::Area::Farm": "lib/Granite/Area/Farm.pm6",
+        "Granite::Area::Forest": "lib/Granite/Area/Forest.pm6",
+        "Granite::Area::Shop": "lib/Granite/Area/Shop.pm6",
+        "Granite::AreaID": "lib/Granite/AreaID.pm6",
+        "Granite::Direction": "lib/Granite/Direction.pm6",
+        "Granite::Main": "lib/Granite/Main.pm6",
+        "Granite::Map": "lib/Granite/Map.pm6"
+    }
+}
